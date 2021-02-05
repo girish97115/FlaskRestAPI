@@ -1,4 +1,4 @@
-Rest Api to maintain notes built in Flask
+A Flask Rest Api to maintain notes
 
 Libraries Used:
   Flask-restful,
