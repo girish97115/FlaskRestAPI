@@ -1,5 +1,5 @@
-# Blog REST API
+Rest Api to maintain notes built in Flask
 
-Fully functional CRUD RESTful API with Flask and SQLAlchemy.
-
-Wonder how I built this? checkout this [blog post](https://rahmanfadhil.com/flask-rest-api/)
+Libraries Used:
+  Flask-restful,
+  SQlAlchemy
